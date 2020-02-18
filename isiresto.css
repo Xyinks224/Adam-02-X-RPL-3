@@ -1,0 +1,63 @@
+body{
+	font-family: sans-serif;
+	background: url('backweb.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.menu {
+	margin: 0 auto; 
+	width: 90%;
+}
+.horizontal{
+	list-style-type: none;
+	padding: 0;
+	margin: 0; 
+	overflow: hidden;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.link{
+	float: right;
+	font-family: helvetica;
+	font-size: 15px;
+	display: block;
+	text-decoration: none;
+	color: #262626;
+	padding: 20px;
+	text-align: center;
+}
+.link:hover {background-color: #e6e6e6;}
+
+#box1 {
+	width: 90%;	
+	background: white;
+	margin: 0 auto;
+	border-radius: 10px;
+}
+
+.judul1 {
+	font-size: 30px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.judulmenu {
+	font-size: 25px;
+	text-align: left;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.img1{
+	width: 340px;
+	height: 340px;
+	border-radius: 10px;
+	margin: 20px;
+}
+
+.isimakan{
+	font-size: 30px;
+	text-align: center;
+}

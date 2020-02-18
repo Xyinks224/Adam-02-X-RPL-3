@@ -1,0 +1,36 @@
+body{
+	font-family: sans-serif;
+	background: url('backweb.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.link{
+	background: #46de4b;
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+	border-radius: 7px;
+	border: none;
+	padding: 10px 20px;
+}
+
+.tulisan1{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+
+.tulisan2{
+	font-size: 15pt;
+	text-align: center;
+
+}
+
+.kotak{
+	width: 250px;
+	background: white;
+	/*meletakkan form ke tengah*/
+	margin: 70px auto;
+	padding: 30px 20px;
+}
